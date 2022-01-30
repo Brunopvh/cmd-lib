@@ -8,8 +8,8 @@ REQUERIMENTOS   - INSTALAÇÃO
 
 __version__ = '0.2.3' 
 __author__ = 'Bruno Chaves'
-__repo__ = 'https://gitlab.com/bschaves/cmd-lib'
-__download_file__ = 'https://gitlab.com/bschaves/cmd-lib/-/archive/main/cmd-lib-main.zip'
+__repo__ = 'https://github.com/Brunopvh/cmd-lib'
+__download_file__ = 'https://github.com/Brunopvh/cmd-lib/archive/refs/heads/main.zip'
 
 import sys
 import os
